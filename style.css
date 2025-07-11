@@ -87,7 +87,7 @@ nav ul li a button {
 }
 .p-text-color {
   color: rgba(37, 36, 50, 0.5);
-  padding-left: 15px;
+  padding-bottom: 15px;
   font-size: 20px;
 }
 /*.left-action {
@@ -142,6 +142,15 @@ nav ul li a button {
 .review-cards {
   display: flex;
   justify-content: space-around;
+}
+.review-h3 {
+  padding-bottom: 10px;
+}
+.review-p {
+  padding-bottom: 10px;
+}
+.stars {
+  padding-bottom: 10px;
 }
 .card {
   border: 1px solid #f2eded;
