@@ -158,3 +158,22 @@ nav ul li a button {
   border: none;
   margin: 0;
 }
+
+/*focus section styles*/
+.ready-to-focus {
+  padding: 80px;
+}
+.focus-h1 {
+  font-size: 40px;
+}
+.focus-items {
+  text-align: center;
+}
+.focus-img {
+  padding-top: 25px;
+}
+.focus-img1 {
+  border-radius: 60px;
+}
+
+/**/
