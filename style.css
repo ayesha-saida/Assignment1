@@ -137,6 +137,7 @@ nav ul li a button {
 .review-h1 {
   font-size: 35px;
   text-align: center;
+  padding-bottom: 25px;
 }
 .review-cards {
   display: flex;
@@ -179,6 +180,10 @@ nav ul li a button {
 }
 .focus-items {
   text-align: center;
+}
+.focus-p {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .focus-img {
   padding-top: 25px;
@@ -261,6 +266,7 @@ textarea {
 }
 .footer-p {
   color: #8987a1;
+  padding-bottom: 15px;
 }
 
 .footer-nav a {
