@@ -97,11 +97,11 @@ nav ul li a button {
 .users {
   background-color: #fff;
   margin: 30px;
+  padding: 40px 70px;
 }
 .user-info {
   background-color: lightsteelblue;
   border-radius: 50px;
-  padding: 50px 0px 20px 20px;
 }
 .user-info-h2 {
   padding: 30px 0px 0px 0px;
@@ -120,7 +120,41 @@ nav ul li a button {
 }
 
 /*review section styles*/
+.review {
+  padding: 40px;
+}
 .review-h1 {
   font-size: 35px;
   text-align: center;
+}
+.review-cards {
+  display: flex;
+  justify-content: space-around;
+}
+.card {
+  border: 1px solid #f2eded;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 3px 3px #f2eded;
+}
+.stars i {
+  color: rgb(255, 204, 0);
+}
+.avatar img {
+  padding-top: 10px;
+  border-radius: 20px;
+  padding-left: 10px;
+}
+.avatar-block {
+  background-color: white;
+  display: flex;
+  justify-content: flex-start;
+}
+.avatar-info {
+  margin: 0;
+  padding-left: 15px;
+}
+.avatar-info input[type='text'] {
+  border: none;
+  margin: 0;
 }
