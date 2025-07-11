@@ -65,3 +65,27 @@ nav ul li a button {
   padding: 15px 30px;
   margin: 20px;
 }
+/*action sction styles*/
+.action {
+  display: flex;
+  justify-content: space-around;
+  padding: 60px;
+  background-color: lightcyan;
+}
+.h3-action {
+  font-size: 35px;
+  font-weight: bold;
+}
+.p-text-color {
+  color: rgba(37, 36, 50, 0.5);
+  padding-left: 15px;
+  font-size: 20px;
+}
+/*.left-action {
+  padding: 60px;
+}*/
+.action-pic {
+  height: 320px;
+  width: 480px;
+  border-radius: 15px;
+}
