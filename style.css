@@ -197,11 +197,38 @@ textarea {
   margin-bottom: 20px;
   font-size: 15px;
   height: 65px;
+  width: 50%;
   background-color: white;
   border-radius: 5px;
   display: block;
-  width: 60%;
+
   padding: 10px 20px;
   margin-bottom: 24px;
   border: none;
+}
+.connect-btn {
+  margin: 0 auto;
+  padding: 20px 200px;
+  font-size: 15px;
+}
+
+/*footer style*/
+.footer-section {
+  padding: 80px;
+}
+.footer-center {
+  text-align: center;
+}
+.footer-h1 {
+  font-size: 80px;
+  font-weight: 900;
+}
+.footer-p {
+  color: #8987a1;
+}
+
+.footer-nav a {
+  color: #8987a1;
+  text-decoration: none;
+  padding: 10px 20px 5px 5px;
 }
