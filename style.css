@@ -176,4 +176,32 @@ nav ul li a button {
   border-radius: 60px;
 }
 
-/**/
+/*contact syles*/
+.messaging {
+  padding: 80px;
+  background-color: lightcyan;
+}
+.connection {
+  display: flex;
+  justify-content: space-around;
+}
+.form {
+  width: 50%;
+}
+.connect-h1 {
+  font-size: 60px;
+}
+input [type='email'],
+input [type='text'],
+textarea {
+  margin-bottom: 20px;
+  font-size: 15px;
+  height: 65px;
+  background-color: white;
+  border-radius: 5px;
+  display: block;
+  width: 60%;
+  padding: 10px 20px;
+  margin-bottom: 24px;
+  border: none;
+}
