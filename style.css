@@ -6,6 +6,10 @@
   font-style: normal;
   font-variation-settings: 'wdth' 100;
 }
+* {
+  margin: 0;
+  padding: 0;
+}
 
 /*header styles*/
 .header {
@@ -198,8 +202,33 @@ nav ul li a button {
 .connect-h1 {
   font-size: 60px;
 }
-input [type='email'],
-input [type='text'],
+.emaill {
+  margin-bottom: 20px;
+  font-size: 15px;
+  height: 65px;
+  width: 50%;
+  background-color: white;
+  border-radius: 5px;
+  display: block;
+
+  padding: 10px 20px;
+  margin-bottom: 24px;
+  border: none;
+}
+.name {
+  margin-bottom: 20px;
+  font-size: 15px;
+  height: 65px;
+  width: 50%;
+  background-color: white;
+  border-radius: 5px;
+  display: block;
+
+  padding: 10px 20px;
+  margin-bottom: 24px;
+  border: none;
+}
+
 textarea {
   margin-bottom: 20px;
   font-size: 15px;
